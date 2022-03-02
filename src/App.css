@@ -1,0 +1,21 @@
+
+body {
+  background-color: rgb(44, 53, 53);
+  text-align: center;
+  padding: 100px;
+  color: aliceblue;
+  letter-spacing: 2px;
+}
+
+button {
+  background-color: aqua;
+  letter-spacing: 2px;
+  border-style: none;
+  height: 30px;
+  border-radius: 10px;
+  border-color: 1px solid brown;
+  padding-right: 40px;
+  padding-left: 40px;
+  font-size: 18px;
+}
+
